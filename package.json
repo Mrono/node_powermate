@@ -12,7 +12,7 @@
         "type" : "git",
         "url" : "https://github.com/Mrono/node_powermate.git"
     },
-    "Dependencies": {
+    "dependencies": {
         "glob": "3.1.14"
     }
 }
