@@ -1,16 +1,16 @@
 {
-    "name": "node_PowerMate",
+    "name": "node_powermate",
     "author": {
 	"name": "Mrono",
         "email": "mrono@mrono.net"
-    }
+    },
     "description": "Node module to parse the Griffin PowerMate.",
     "version": "0.0.1",
     "main": "PowerMate.js",
     "keywords:": ["node", "js", "powermate", "griffin"],
     "repository": {
         "type" : "git",
-        "url" : "https://github.com/Mrono/node_PowerMate.git"
+        "url" : "https://github.com/Mrono/node_powermate.git"
     },
     "devDependencies": {
         "glob": "3.1.14"

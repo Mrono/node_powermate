@@ -1,9 +1,9 @@
-node_PowerMate
+node_powermate
 ==============
 
 Node module to parse the Griffin PowerMate.
 
-```npm install PowerMate```
+```npm install powermate```
 
 You may need to run as root on some systems
 
