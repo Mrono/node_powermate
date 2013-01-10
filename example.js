@@ -1,4 +1,4 @@
-var PowerMate = require('./PowerMate.js');
+var PowerMate = require('powermate');
 
 var pm = new PowerMate();
 pm.on('right', function() {

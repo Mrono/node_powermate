@@ -1,5 +1,5 @@
 {
-    "name": "node_powermate",
+    "name": "powermate",
     "author": {
 	"name": "Mrono",
         "email": "mrono@mrono.net"
@@ -12,7 +12,7 @@
         "type" : "git",
         "url" : "https://github.com/Mrono/node_powermate.git"
     },
-    "devDependencies": {
+    "Dependencies": {
         "glob": "3.1.14"
     }
 }
